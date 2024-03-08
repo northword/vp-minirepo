@@ -3,7 +3,7 @@ import theme from "./theme.js";
 import { baiduAnalyticsPlugin } from "@vuepress/plugin-baidu-analytics";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/vp-minirepo/",
 
   lang: "zh-CN",
   title: "文档演示",
